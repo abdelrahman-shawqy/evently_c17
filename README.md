@@ -38,7 +38,7 @@ A Flutter-based event management application that allows users to create, catego
 ## 🚀 Getting Started
 
 ```bash
-git clone https://github.com/your-username/evently.git
+git clone https://github.com/your-username/evently_17.git
 cd evently
 flutter pub get
 flutter run
